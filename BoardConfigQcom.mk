@@ -42,7 +42,8 @@ QSSI_SUPPORTED_PLATFORMS := \
     $(UM_5_10_FAMILY) \
     $(UM_5_15_FAMILY) \
     $(UM_6_1_FAMILY) \
-    $(UM_6_6_FAMILY)
+    $(UM_6_6_FAMILY) \
+    msm8998
 
 BOARD_USES_ADRENO := true
 
